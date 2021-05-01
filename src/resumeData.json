@@ -1,61 +1,39 @@
 {
   "main": {
-    "name":"Student Name",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Sebastian",
+    "description":"Hi, my name is Sebastian and I am a second-year student at University of Virginia double-majoring in Computer Science and Economics.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "student@uvawise.com",
+    "bio":"I am from Peru and love playing soccer. Since young, I had an interest in Maths and the natural sciences. During high school, I discovered my interest in Economics and when arriving at UVA I realized I had a passion for Computer Science too. I am currently evaluating career paths related to both majors and I am looking to get a wide range of new experiences. This summer I will be a Software Development intern at an Investment/Portfolio Management firm.",
+    "contactmessage":"Please don't hesitate to contact me at spc2jxe@virginia.edu",
+    "email": "spc2jxe@virginia.edu",
     "address":{
       "city":"Charlottesville",
       "state":"Virginia",
       "zip": "22903"
     },
-    "website": "<username>.github.io",
-    "resumedownload":"LINK TO YOUR RESUME HERE - CAN HOST IT ON GDRIVE",
+    "website": "sebastiancadillo.github.io",
+    "resumedownload":"https://drive.google.com/file/d/1t6TD9c_Ts7aPcnum6jVZp2w-ZJiycVU0/view?usp=sharing",
     "social":[
       {
-        "name":"twitter", 
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/yoururl/",
+        "url":"https://www.linkedin.com/in/sebastiancadillo/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/githubusername",
+        "url":"http://github.com/sebastiancadillo",
         "className":"fa fa-github"
       }
     ]
   },
   "portfolio":{
     "projects": [
+
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
+        "title":"Obstacle race",
+        "category":"Unity game in progress using Brackeys' Youtube tutorial",
+        "image":"game.jpg",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
       }
     ]
   }
